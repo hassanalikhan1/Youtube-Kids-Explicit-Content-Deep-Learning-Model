@@ -6,4 +6,4 @@ You'll need the following libraries to run the code.
 - Opencv Python
 - Scikit learn
 
-The imagenet_utils.py is a helper file and you do not have to use it at all. Please don't touch it.
+The imagenet_utils.py is a helper file.
